@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<document>
+<header>
+<doctitle>
+ 重訂濟陰綱目 
+ </doctitle>
+<volume>
+ 第一冊, 卷 1 
+ </volume>
+<author>
+ 武 之 望   (叔卿 ) 
+</author>
+<date>
+ 清雍正六年, 1728
+ </date>
+<currentpage>
+ text 23b 
+ </currentpage>
+<first>
+ jiyingkangmu v.1 tp.xml
+</first>
+<last>
+ jiyingkangmu v.1 text1 38b.xml 
+</last>
+<prev>
+ jiyingkangmu v.1 text1 23a.xml 
+</prev>
+<next>
+ jiyingkangmu v.1 text1 24a.xml 
+</next>
+<image>
+ jiyingkangmu v.1 text1 23b.jpg 
+</image>
+</header><text>
+產 後 失 音 不 語 。 加 訶 子 人 參 沙 蜜 百 藥 煎 
+ <marginalia> 
+ <sf> 失 音 須 明 虛 實 恐 太 弱 也 </sf> 
+ </marginalia> 
+ 
+ 產 後 悶 亂 。 加 茯 神 遠 志 
+ <marginalia> 
+ <sf> 悶 亂 須 問 瘀 血 有 無 </sf> 
+ </marginalia> 
+ 
+ 胎 前 產 後 痢 後 風 。 加 乳 香 龍 骨 茱 萸 木 香 肉 桂 蒼 朮 牡 丹 皮 白 薇 人 參 甘 草 澤 蘭 大 椒 懷 香 煉 蜜 為 丸 木 瓜 酒 下 
+ <marginalia> 
+ <sf> 骨 何 風 而 用 龍 骨 何 也 諸 熱 藥 亦 未 善 </sf> 
+ </marginalia>
+
+<formula>
+簡 易 當 歸 散         治 經 脈 不 勻 。 或 三 四 月 不 行 。 或 一 月 再 至 。 或 腰 腿 疼 痛 。 不 依 時 而 行 
+ 當 歸         川 芎         白 芍 藥 <sf> 炒 </sf>         黃 苓 <sf> 炒 各 一 兩 </sf>         白 朮         山 茱 &lt;x> 肉 <sf> 各 一 兩 半 </sf> 
+ </formula> 
+
+ 右 為 細 未 [ 末 ] 空 心 溫 酒 調 下 三 錢 日 三 服 ○ 或 剉 每 服 七 錢 加 生 薑 水 煎 服 ○ 如 冷 去 黃 苓 加 肉 桂 ○ 一 方 有 熟 地 黃 
+ <marginalia> 
+ <sf> 此 方 不 用 地 黃 而 補 肝 脾 清 金 制 水 又 是 四 物 湯 之 一 <cf> &#21464; </cf> 用 以 此 推 之 應 <cf> &#21464; </cf> 無 窮 矣 </sf> 
+ </marginalia>
+
+<formula> 
+ 增 損 四 物 湯         治 月 事 不 調 心 腹 疼 痛 。 補 血 溫 經 。 駐 顏 
+ </formula></text></document>

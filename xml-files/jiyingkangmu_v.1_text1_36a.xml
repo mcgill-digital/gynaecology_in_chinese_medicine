@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<document>
+<header>
+<doctitle>
+ 重訂濟陰綱目 
+ </doctitle>
+<volume>
+ 第一冊, 卷 1 
+ </volume>
+<author>
+ 武 之 望   (叔卿 ) 
+</author>
+<date>
+ 清雍正六年, 1728
+ </date>
+<currentpage>
+ text 36a 
+ </currentpage>
+<first>
+ jiyingkangmu v.1 tp.xml
+</first>
+<last>
+ jiyingkangmu v.1 text1 38b.xml 
+</last>
+<prev>
+ jiyingkangmu v.1 text1 35b.xml 
+</prev>
+<next>
+ jiyingkangmu v.1 text1 36b.xml 
+</next>
+<image>
+ jiyingkangmu v.1 text1 36a.jpg 
+</image>
+</header><text>
+<formula> 
+ 六 神 湯         治 血 氣 不 足 肌 體 煩 熱 四 肢 倦 怠 不 進 飲 食 
+ 當 歸         川 芎         白 芍 藥         熟 地 黃         黃 &lt;x>         地 骨 皮 <sf> 各 一 錢 </sf> 
+ </formula> 
+ 右 &lt;x> 咀 。 水 煎 。 空 心 服 。 
+ <marginalia> 
+ <sf> 此 治 血 虛 而 氣 分 有 虛 熱 者 
+ 二 方 氣 血 不 同 學 者 自 當 分 別 </sf> 
+ </marginalia> 
+ 
+ ○ 治 { 往 } 來 寒 熱 
+ <formula> 
+ 本 事 方         治 婦 人 血 脈 不 調 { 往 } 來 寒 熱 。 狀 如 勞 倦 。 
+ 當 歸         川 芎         黃 &lt;x>         甘 草         官 桂 <sf> 各 一 兩 </sf>         熟 地 黃         白 芍 藥         白 朮 <sf> 各 二 兩 </sf>         柴 胡         阿 膠 <sf> 碎 炒 各 半 兩 </sf> 
+ </formula> 
+ 右 為 細 末 每 服 五 錢 棗 一 枚 水 煎 空 心 服 白 湯 點 服 亦 得 當 永 不 生 帶 下 調 血 <cf> &#33033; </cf> 。 養 子 宮 終 身 無 病 。 
+ <marginalia> 
+ <sf> 陽 虛 則 惡 寒 陰 虛 則 發 熱 此 方 氣 血 並 補 與 十 全 大 補 湯 同 乃 獨 無 人 參 而 柴 胡 阿 膠 是 肝 經 中 藥 亦 治 寒 熱 之 要 訣 也 </sf> 
+ </marginalia> 
+ 
+<formula> 
+ 地 骨 皮 散         治 血 氣 虛 時 作 寒 熱 或 晡 熱 內 熱 
+ <marginalia> 
+ <sf> 按 黃 &lt;x> 人 參 </sf> 
+ </marginalia> 
+ </formula></text></document>
