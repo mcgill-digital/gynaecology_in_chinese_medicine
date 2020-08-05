@@ -1,0 +1,31 @@
+<!--
+  Draft specification for China Project XML files (http://132.206.203.207/china/docs/)
+  
+INVOCATION:
+#  <!DOCTYPE chinadoc SYSTEM
+#       "http://132.206.203.209/china/docs/china-dtd.dtd">
+-->
+
+<!-- elements -->
+<!ELEMENT chinadoc (header,text)>
+<!ELEMENT header (title,author,page,previous,next)>
+<!ELEMENT text (#PCDATA|formula|marginalia)*>
+<!ELEMENT page (#PCDATA)>
+<!ELEMENT previous (#PCDATA)>
+<!ELEMENT next (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT formula (#PCDATA)>
+<!ELEMENT marginalia (#PCDATA)>
+
+
+<!-- entities -->
+<!ENTITY lt     "&#38;#60;">
+<!ENTITY gt     "&#62;">
+<!ENTITY amp    "&#38;#38;">
+<!ENTITY apos   "&#39;">
+<!ENTITY quot   "&#34;">
+<!ENTITY nbsp   "&#160;">
+<!ENTITY mdash  "&#38;#x2014;">
+<!ENTITY ldquo  "&#38;#x201C;">
+<!ENTITY rdquo  "&#38;#x201D;">
